@@ -1,7 +1,43 @@
 Microsoft Windows [Version 10.0.19045.3803]
 (c) Microsoft Corporation. All rights reserved.
 
-C:\Users\iPMAC\source\repos\example\example\bin\x64\Release\net8.0>cmd /k 
+C:\Users\iPMAC\source\repos\example\example\bin\x64\Release\net8.0>cmd /k ipconfig
+
+Windows IP Configuration
+
+
+Ethernet adapter VirtualBox Host-Only Network:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::19d8:2a42:d791:6542%11
+   IPv4 Address. . . . . . . . . . . : 192.168.0.156
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 
+
+Ethernet adapter Ethernet 2:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::891c:54f5:6f45:22ac%3
+   IPv4 Address. . . . . . . . . . . : 192.168.88.51
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 192.168.88.1
+
+Ethernet adapter VMware Network Adapter VMnet1:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::763f:a630:8898:f7d1%12
+   IPv4 Address. . . . . . . . . . . : 192.168.111.1
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 
+
+Ethernet adapter VMware Network Adapter VMnet8:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::1cf3:5b61:2ee4:c9c1%6
+   IPv4 Address. . . . . . . . . . . : 208.100.26.1
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 
+
 C:\Users\iPMAC\source\repos\example\example\bin\x64\Release\net8.0>
 C:\Users\iPMAC\source\repos\example\example\bin\x64\Release\net8.0>
 C:\Users\iPMAC\source\repos\example\example\bin\x64\Release\net8.0>
